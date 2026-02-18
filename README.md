@@ -1,7 +1,7 @@
 # Coppeliasim-3-DOF-Robot-
 This project uses a 3-DOF robot to practice Modern Robotics basics. I am using this simulation to test Forward Kinematics (FK), Inverse Kinematics (IK), and robot dynamics. Even though the robot design is simple, it is a great starting point for turning mathematical theories into a working simulation.
-Language:Python
-Libraries Used: modern_robotics , numpy 
+Language:Python -
+Libraries Used: modern_robotics , numpy -
 API:ZMQ API (connect vscode with coppeliasim software)
 
 ## Forward Kinematics
