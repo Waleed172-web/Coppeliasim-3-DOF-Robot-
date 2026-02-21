@@ -7,4 +7,4 @@ API:ZMQ API (connect vscode with coppeliasim software)
 ## Forward Kinematics
 In 3DOF Robot.ipynb file, forward kinematics is calculated by Product of Exponential Formula (POE) . We need home configuration of robot (M) , Slist (stores information about all 3 joints ) and theta(angles we entered).
 ### Jacobian
-### Uses of Jacobian (Singularity Detection by rank ,Yoshikawa manipulability and condition numbers)
+Uses of Jacobian (Singularity Detection by rank ,Yoshikawa manipulability and condition numbers)
